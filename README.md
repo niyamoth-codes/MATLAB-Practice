@@ -81,6 +81,23 @@ This repository contains my MATLAB learning and data analysis projects.
 * Conditional statements
 * Bar chart visualization
 
+### 10.University Student Management System
+
+Features
+
+* Student Information Management
+* Marks Analysis
+* Grade & GPA Calculation
+* Attendance Percentage
+* Eligibility Check
+* Fee Calculation
+* Scholarship Calculation
+* Performance Evaluation
+* Bar Chart Visualization
+* Pie Chart Visualization
+* Report Generation (.txt)
+
+
 ## Tools Used
 
 * MATLAB
